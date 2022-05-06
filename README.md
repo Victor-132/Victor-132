@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor Matheus 👋
 
 - 🔭 I’m currently working as a full stack developer.
-- 🌱 I’m currently learning Microservices.
+- 🌱 I’m currently learning Kafka, Prometheus and RabbitMQ.
 - 😄 Pronouns: he/his
 
 <div>
