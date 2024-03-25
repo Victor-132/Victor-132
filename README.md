@@ -1,8 +1,6 @@
 ### Hi there, I'm Victor Matheus 👋
 
-- 🔭 I’m currently working as a full stack developer.
-- 🌱 I’m currently learning Golang.
-- 😄 Pronouns: he/his
+- 🔭 I’m currently working as a tech lead/backend developer.
 
 <div>
   <a href="https://github.com/Victor-132">
